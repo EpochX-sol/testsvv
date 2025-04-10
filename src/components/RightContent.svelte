@@ -76,8 +76,8 @@
     top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 300px;
-    height: 300px;
+    width: 230px;
+    height: 230px;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 50%;
     pointer-events: none;
